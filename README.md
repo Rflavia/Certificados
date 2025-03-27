@@ -18,7 +18,7 @@ O objetivo deste repositório é **centralizar todos os certificados adquiridos*
 
 ## 📂 Estrutura dos Arquivos
 
-Todos os certificados estão organizados em formato PDF. Você pode baixá-los clicando nos links acima.
+Todos os certificados estão organizados em formato PDF. Você pode visualizá-los clicando nos links acima.
 
 ---
 
