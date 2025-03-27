@@ -1,6 +1,6 @@
 # Certificados 🎓
 
-Este repositório contém os **certificados de cursos, eventos e outras qualificações** que obtive ao longo do tempo. Aqui você pode encontrar os arquivos de certificados em **PDF** ou **imagem**, relacionados a diversos cursos de **desenvolvimento**, **tecnologia**, e muito mais.
+Este repositório contém os **certificados de cursos, eventos e outras qualificações** que obtive ao longo do tempo. Aqui você pode encontrar os arquivos de certificados em **PDF** ou **imagem**, relacionados a diversos cursos de **desenvolvimento** e **tecnologia**.
 
 ## 🚀 Objetivo
 
