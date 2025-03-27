@@ -6,11 +6,7 @@ Este repositório contém os **certificados de cursos, eventos e outras qualific
 
 O objetivo deste repositório é **centralizar todos os certificados adquiridos** durante minha jornada acadêmica e profissional, facilitando o acesso e a organização da minha formação.
 
-## 🏅 Certificados Disponíveis
-
-Aqui estão os **certificados** que eu adquiri até agora:
-
-### 📚 **Java**
+## Certificados disponíveis
 
 - [**Entrada e Saída de Arquivos (IO) em Java**](./Entrada%20e%20Saída%20de%20Arquivos%20(IO)%20em%20Java.pdf): Certificado de curso sobre leitura e escrita de arquivos em Java.
 - [**Escopo e Estruturas de Controle em Java**](./Escopo%20e%20Estruturas%20de%20Controle%20em%20Java.pdf): Certificado de curso sobre escopo de variáveis e controle de fluxo em Java.
@@ -18,7 +14,6 @@ Aqui estão os **certificados** que eu adquiri até agora:
 - [**Java AI Powered**](./Java%20AI%20Powered.pdf): Certificado de curso sobre como usar Java em Inteligência Artificial.
 - [**Pilhas e Filas em Java**](./Pilhas%20e%20Filas%20em%20Java.pdf): Certificado de curso sobre estruturas de dados como pilhas e filas em Java.
 - [**Programação Orientada a Objetos com Java**](./Programação%20Orientada%20a%20Objetos%20com%20Java.pdf): Certificado de curso sobre conceitos de POO com Java.
-
 ---
 
 ## 📂 Estrutura dos Arquivos
