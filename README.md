@@ -1,9 +1,5 @@
 # Certificados 🎓
 
-Este repositório contém os **certificados de cursos, eventos e outras qualificações** que obtive ao longo do tempo. Aqui você pode encontrar os arquivos de certificados em **PDF** ou **imagem**, relacionados a diversos cursos de **desenvolvimento** e **tecnologia**.
-
-## 🚀 Objetivo
-
 O objetivo deste repositório é **centralizar todos os certificados adquiridos** durante minha jornada acadêmica e profissional, facilitando o acesso e a organização da minha formação.
 
 ## Certificados disponíveis
