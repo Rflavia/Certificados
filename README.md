@@ -10,10 +10,14 @@ O objetivo deste repositório é **centralizar todos os certificados adquiridos*
 - [**Java AI Powered**](./Java%20AI%20Powered.pdf): Certificado como usar Java em Inteligência Artificial.
 - [**Pilhas e Filas em Java**](./Pilhas%20e%20Filas%20em%20Java.pdf): Certificado sobre estruturas de dados como pilhas e filas em Java.
 - [**Programação Orientada a Objetos com Java**](./Programação%20Orientada%20a%20Objetos%20com%20Java.pdf): Certificado conceitos de POO com Java.
+
 ---
+
 ## Certificados prova 2
 
-
+- [**Automação de Testes com Selenium WebDriver e Java**](./Automação%20de%20Testes%20com%20Selenium%20WebDriver%20e%20Java.pdf): Certificado sobre a automação de testes utilizando Selenium WebDriver e Java.
+- [**Collections Java**](./Collections%20java.pdf): Certificado sobre o uso de coleções em Java.
+- [**Variáveis, Tipos de Dados e Operadores Matemáticos em Java**](./Variáveis%2C%20Tipos%20de%20Dados%20e%20Operadores%20Matemáticos%20em%20Java.pdf): Certificado sobre variáveis, tipos de dados e operadores matemáticos em Java.
 
 ## 📂 Estrutura dos Arquivos
 
@@ -24,4 +28,3 @@ Todos os certificados estão organizados em formato PDF. Você pode visualizá-l
 ## 💬 Contato
 
 Se você tiver interesse em mais informações sobre meus certificados ou quiser conversar sobre alguma dessas áreas, fique à vontade para entrar em contato comigo através do meu [GitHub](https://github.com/Rflavia) ou [LinkedIn](https://www.linkedin.com/in/flavia-rosa-8301781b6)
-
